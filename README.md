@@ -1,2 +1,2 @@
 # Console-Game
- a simple console game
+ A console game written in 5-6 hours
